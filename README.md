@@ -15,6 +15,7 @@
       - Angular
   - Java
   - C
+  - C++
   - C#
   - Python
       - Flask
