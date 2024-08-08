@@ -19,7 +19,6 @@
   - C#
   - Python
       - Flask
-  - Haskell
   - SQL Databases
   - Microsoft Azure DevOps
   - CI/CD Project deployment structure
