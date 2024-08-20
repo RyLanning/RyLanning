@@ -20,7 +20,6 @@
   - Python
       - Flask
   - SQL Databases
-  - Microsoft Azure DevOps
   - CI/CD Project deployment structure
   - Many project-management solutions and frameworks
 
